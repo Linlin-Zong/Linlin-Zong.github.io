@@ -25,7 +25,7 @@ Bo Xu, Erchen Yu, Jiahui Zhou, Hongfei Lin, **Linlin Zong**<br>
   **Linlin Zong**, Jiahui Wan, Xianchao Zhang, Xinyue Liu, Wenxin Liang, Bo Xu <br>
   **AAAI** 2024: 19795-19803
 
-- **Video-Context Aligned Transformer for Video Question Answering.** <br>
+- **Video-Context Aligned Transformer for Video Question Answering.** [[code](https://github.com/ZhouJiahui-dlut/OpEvFake)]<br>
   **Linlin Zong**, Jiahui Zhou, Wenmin Lin, Xinyue Liu, Xianchao Zhang, Bo Xu<br>
   **ACL (Findings)** 2024: 10817-10826
   
